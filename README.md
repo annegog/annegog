@@ -38,7 +38,6 @@ I'm a passionate software developer with experience in front-end and back-end de
 
 ### 🎯 Let's Connect!
 📩 **Email**: [gogoulaanna@gmail.com](mailto:gogoulaanna@gmail.com)  
-🌍 **Portfolio**: Coming soon... 🚧
 
 ---
 
