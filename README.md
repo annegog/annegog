@@ -1,7 +1,6 @@
 ### Hi there, I'm Anna! 👋
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/anna-gogoula-5496a3209/)
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=flat-square&logo=github)](https://github.com/annegog)
 
 ---
 
@@ -16,7 +15,7 @@ I'm a passionate software developer with experience in front-end and back-end de
 ```json
 {
   "Languages": ["Java", "JavaScript", "Python", "C", "C++"],
-  "Technologies": ["PrimeFaces", "React", "Node.js", "MongoDB", "MySQL", "Maven"],
+  "Technologies": ["React", "Node.js", "MongoDB", "MySQL", "Maven", "PrimeFaces"],
   "Tools": ["jBPM", "Superset", "Figma", "Canva"]
 }
 ```
